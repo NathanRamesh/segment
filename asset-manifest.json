@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NathanRamesh/segment/static/css/main.0503ce0d.css",
+    "main.js": "/NathanRamesh/segment/static/js/main.ca41a214.js",
+    "static/js/787.ce2d4f1c.chunk.js": "/NathanRamesh/segment/static/js/787.ce2d4f1c.chunk.js",
+    "index.html": "/NathanRamesh/segment/index.html",
+    "main.0503ce0d.css.map": "/NathanRamesh/segment/static/css/main.0503ce0d.css.map",
+    "main.ca41a214.js.map": "/NathanRamesh/segment/static/js/main.ca41a214.js.map",
+    "787.ce2d4f1c.chunk.js.map": "/NathanRamesh/segment/static/js/787.ce2d4f1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0503ce0d.css",
+    "static/js/main.ca41a214.js"
+  ]
+}
